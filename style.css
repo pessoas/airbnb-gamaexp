@@ -1,12 +1,7 @@
 #cabecalho {
   margin-top: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   
-}
-
-#titulo {
-  color: rgb(253, 95, 102);
-  text-align: center;
 }
 
 #cabecalho a{
@@ -18,6 +13,14 @@
   max-width: 30px;
   max-height: 30px;
   border-radius: 50%;
+}
+
+#divTitulo{
+  margin-bottom: 30px;
+}
+
+#titulo {
+  color: rgb(253, 95, 102);
 }
 
 .card {
