@@ -12,7 +12,7 @@ function createCard(element) {
           <img class="card-img-top" src="${element.photo}" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">${element.property_type}</h5>
-            <p class="card-text">${element.name} <br>R$: ${element.price},00</p>
+            <p class="card-text"> <!--${element.name} <br>--><b>R$: ${element.price}</b>/noite</p>
         </div>
       </div>
     </div>
